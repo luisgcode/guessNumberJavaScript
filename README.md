@@ -1,7 +1,5 @@
 # Luis Guaiquirian
 
-## 📜 xxxxxxxxxxx 📜
-
 Small project for DOM manipulation practice
 
 ## 👨‍💻 Used Technologies 👨‍💻
